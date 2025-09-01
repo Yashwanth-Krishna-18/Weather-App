@@ -5,7 +5,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # 🌤️ Weather App
 
-Live Demo: [Click this link to view](https://delicate-paprenjak-c64b7c.netlify.app/)
+Live Demo: [Click this link to view](https://yashwanth-krishna-18.github.io/Weather-App/)
 
 This app shows the current weather for any city using the OpenWeatherMap API.
 
