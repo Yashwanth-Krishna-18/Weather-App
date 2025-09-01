@@ -27,6 +27,7 @@ const Weather = () => {
   };
 
   return (
+    <div className="app-container">
     <div className="weather-container">
       <h1>🌦️ Weather Forecast</h1>
       <div className="input-section">
@@ -46,6 +47,7 @@ const Weather = () => {
           <p className="temperature">{weather.main.temp}°C</p>
         </div>
       )}
+    </div>
     </div>
   );
 };
